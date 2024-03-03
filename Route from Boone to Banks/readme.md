@@ -1,0 +1,5 @@
+# Driving Route from Salt Lake City, UT to Banks, ID
+## This map shows a Google Maps roadtrip, with stops in Snowville and Morley Nelson Snake River Birds of Prey National Conservation Area.
+This route travels through one of the most beautiful sections of the United States, beginning in a big city in Utah and ending in a tiny, intimate kayaking town in Idaho. Both locations have their own unique and exciting features that are must-sees. This is the preferred route of the two main routes suggested by Google Maps, at just under 6 hours not including time spent at stops. It is recommended to spend at least 2 hours at each destination along the way, and at any other exciting features. Explore the map for any other stops you might want to make along the way!
+- The base map was loaded from ArcGIS Online.
+- The route was generated using Google Maps, GeoJSON, and Leaflet.
